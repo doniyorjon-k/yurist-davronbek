@@ -1,6 +1,6 @@
 export interface BlogPost {
   slug: string;
-  category: 'biznes' | 'mol-mulk' | 'oila' | 'jinoiy' | 'umumiy';
+  category: 'business' | 'property' | 'family' | 'general' | 'labor' | 'corporate' | 'tax' | 'contracts' | 'court';
   publishedAt: string;
   readingTimeMinutes: number;
   titleUz: string;
