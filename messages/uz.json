@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "title": "Davronbek Qo'chqorov — Huquqiy Maslahat | Toshkent",
+    "description": "Professional huquqiy xizmatlar: oila huquqi, mehnat huquqi, korporativ huquq, ko'chmas mulk. 10+ yillik tajriba."
+  },
+  "nav": {
+    "services": "Xizmatlar",
+    "about": "Biz haqimizda",
+    "cases": "Natijalar",
+    "blog": "Blog",
+    "contact": "Bog'lanish",
+    "consultation": "Bepul Maslahat"
+  },
+  "hero": {
+    "badge": "Qonun sizning tomoningizda",
+    "headline": "Huquqiy Muammolaringizni",
+    "headlineAccent": "Professional Hal Qilamiz",
+    "subheadline": "10 yildan ortiq tajriba, 500+ muvaffaqiyatli ish, 98% mijozlar qoniqishi",
+    "ctaTelegram": "Telegram orqali yozish",
+    "ctaPhone": "Qo'ng'iroq qilish",
+    "stat1Value": "500+",
+    "stat1Label": "Muvaffaqiyatli Ishlar",
+    "stat2Value": "10+",
+    "stat2Label": "Yillik Tajriba",
+    "stat3Value": "98%",
+    "stat3Label": "Mijozlar Mamnuniyati",
+    "stat4Value": "50+",
+    "stat4Label": "Hamkor Kompaniyalar"
+  },
+  "services": {
+    "heading": "Xizmatlar",
+    "subheading": "Har qanday huquqiy masalada professional yordam",
+    "items": {
+      "family": {
+        "title": "Oila Huquqi",
+        "description": "Ajralish, alimentlar, farzandni asrab olish, er-xotin mulkini bo'lish"
+      },
+      "labor": {
+        "title": "Mehnat Huquqi",
+        "description": "Noqonuniy ishdan bo'shatish, mehnat nizolari, ish haqi masalalari"
+      },
+      "corporate": {
+        "title": "Korporativ va Biznes Huquq",
+        "description": "Kompaniya tuzish, ustav tayyorlash, korporativ boshqaruv maslahat"
+      },
+      "realestate": {
+        "title": "Ko'chmas Mulk",
+        "description": "Sotib olish-sotish, ijaraga berish, mulkni ro'yxatdan o'tkazish"
+      },
+      "tax": {
+        "title": "Soliq Huquqi",
+        "description": "Soliq rejalashtirish, nizolar, soliq idoralari bilan muloqot"
+      },
+      "contracts": {
+        "title": "Shartnomalar",
+        "description": "Har xil shartnomalar tuzish, ekspertiza va bahs-munozaralar"
+      },
+      "court": {
+        "title": "Sud Vakilligi",
+        "description": "Fuqarolik va xo'jalik sudlarida professional vakil sifatida ishtirok"
+      }
+    }
+  },
+  "whyUs": {
+    "heading": "Nima Uchun Biz?",
+    "subheading": "Siz uchun eng yaxshisini taklif etamiz",
+    "items": {
+      "experience": {
+        "title": "Katta Tajriba",
+        "description": "10 yildan ortiq amaliyot, 500+ muvaffaqiyatli ish"
+      },
+      "individual": {
+        "title": "Individual Yondashuv",
+        "description": "Har bir mijoz uchun alohida strategiya ishlab chiqamiz"
+      },
+      "transparency": {
+        "title": "Shaffoflik",
+        "description": "Ish jarayoni va narxlar haqida to'liq ma'lumot"
+      },
+      "speed": {
+        "title": "Tezkorlik",
+        "description": "Muddatlarga qat'iy rioya qilgan holda ishlash"
+      },
+      "result": {
+        "title": "Natijaga Yo'nalganlik",
+        "description": "Har bir ishda maksimal natija olishga intilamiz"
+      }
+    }
+  },
+  "categories": {
+    "business": "Biznes",
+    "property": "Ko'chmas mulk",
+    "family": "Oila",
+    "general": "Umumiy",
+    "labor": "Mehnat",
+    "corporate": "Korporativ",
+    "tax": "Soliq",
+    "contracts": "Shartnomalar",
+    "court": "Sud"
+  },
+  "cases": {
+    "heading": "Muvaffaqiyatli Natijalar",
+    "subheading": "Mijozlarimiz uchun erishgan natijalarmiz",
+    "viewAll": "Barchasini Ko'rish",
+    "outcomes": {
+      "debt": "so'mlik qarzdorlik",
+      "property": "mulk qaytarildi",
+      "custody": "bolani asrab olish"
+    }
+  },
+  "testimonials": {
+    "heading": "Mijozlar Fikri",
+    "subheading": "Haqiqiy odamlar, haqiqiy natijalar"
+  },
+  "about": {
+    "heading": "Yurist Haqida",
+    "name": "Davronbek Qo'chqorov",
+    "title": "Huquq fanlari magistri, Oliy toifali yurist",
+    "bio1": "Men 2014 yildan beri huquq sohasida faoliyat yuritib kelaman. Toshkent Davlat Yuridik Universitetini tamomlagan va bir necha xalqaro malaka oshirish dasturlarida qatnashganman.",
+    "bio2": "Asosiy yo'nalishlarim — oila huquqi, mehnat huquqi, korporativ va biznes huquqi, ko'chmas mulk, soliq huquqi, shartnomalar hamda sud vakilligidir. Bu sohalarda 400 dan ortiq ishni muvaffaqiyatli yakunlaganman.",
+    "credentials": {
+      "edu": "TDYU — Huquq magistri, 2014",
+      "member": "O'zbekiston Yuristlar Assotsiatsiyasi a'zosi",
+      "cert": "Xalqaro mediatsiya sertifikati, 2019"
+    },
+    "ctaConsult": "Maslahat Olish"
+  },
+  "process": {
+    "heading": "Ishlash Tartibi",
+    "subheading": "Oddiy va shaffof jarayon",
+    "steps": {
+      "step1": {
+        "title": "Murojaat",
+        "description": "Telegram yoki telefon orqali bog'laning"
+      },
+      "step2": {
+        "title": "Bepul Maslahat",
+        "description": "30 daqiqa bepul konsultatsiya"
+      },
+      "step3": {
+        "title": "Shartnoma",
+        "description": "Aniq shartlar va narxlar bilan kelishuv"
+      },
+      "step4": {
+        "title": "Natija",
+        "description": "Ishingizni muvaffaqiyatli yakunlaymiz"
+      }
+    }
+  },
+  "blog": {
+    "heading": "Foydali Maqolalar",
+    "subheading": "Huquqiy masalalar bo'yicha bepul bilimlar",
+    "readMore": "Batafsil",
+    "viewAll": "Barcha Maqolalar",
+    "backToBlog": "Blogga Qaytish",
+    "pageTitle": "Blog",
+    "pageSubheading": "Huquqiy maslahatlar va yangiliklar",
+    "minRead": "daqiqa o'qish"
+  },
+  "faq": {
+    "heading": "Ko'p So'raladigan Savollar",
+    "subheading": "Eng keng tarqalgan savollarga javoblar",
+    "items": {
+      "q1": {
+        "question": "Birinchi maslahat pullikmi?",
+        "answer": "Yo'q, birinchi 30 daqiqalik maslahat mutlaqo bepul."
+      },
+      "q2": {
+        "question": "Narxlar qanday belgilanadi?",
+        "answer": "Narxlar ish murakkabligiga qarab belgilanadi. Batafsil ma'lumot uchun bog'laning."
+      },
+      "q3": {
+        "question": "Qancha vaqt davomida javob olaman?",
+        "answer": "Telegram yoki telefon orqali 1 soat ichida javob beramiz."
+      },
+      "q4": {
+        "question": "Respublika bo'ylab xizmat ko'rsatasizmi?",
+        "answer": "Ha, onlayn maslahat orqali O'zbekistonning barcha hududlarida xizmat ko'rsatamiz."
+      },
+      "q5": {
+        "question": "Qanday hujjatlarni tayyorlashim kerak?",
+        "answer": "Dastlabki maslahatga hech qanday hujjat talab etilmaydi."
+      }
+    }
+  },
+  "cta": {
+    "heading": "Bepul Maslahat Oling",
+    "subheading": "Bugun muammoingizni hal qilishni boshlang",
+    "form": {
+      "name": "Ismingiz",
+      "phone": "Telefon raqam",
+      "message": "Muammo tavsifi",
+      "submit": "Yuborish",
+      "success": "Xabaringiz qabul qilindi! Tez orada bog'lanamiz.",
+      "error": "Xato yuz berdi. Iltimos qayta urinib ko'ring."
+    },
+    "orContact": "Yoki to'g'ridan-to'g'ri bog'laning",
+    "telegram": "Telegram",
+    "phone": "Telefon"
+  },
+  "footer": {
+    "tagline": "Professional huquqiy xizmatlar",
+    "links": "Havolalar",
+    "contact": "Aloqa",
+    "hours": "Ish Vaqti",
+    "hoursDetail": "Du–Ju: 09:00–18:00\nSha: 10:00–15:00",
+    "address": "Toshkent sh., Chilonzor tumani",
+    "copyright": "© 2025 Davronbek Qo'chqorov. Barcha huquqlar himoyalangan.",
+    "privacy": "Maxfiylik siyosati"
+  }
+}

@@ -1,0 +1,40 @@
+import { TestimonialItem } from '@/types/common';
+
+export const testimonials: TestimonialItem[] = [
+  {
+    id: '1',
+    nameUz: 'Alisher Karimov',
+    nameRu: 'Алишер Каримов',
+    nameEn: 'Alisher Karimov',
+    roleUz: 'Korporativ huquq bo\'yicha mijoz',
+    roleRu: 'Клиент по корпоративному праву',
+    roleEn: 'Corporate law client',
+    quoteUz: 'Davronbek biznes tashkil etishda juda katta yordam berdi. Barcha hujjatlarni tez va to\'g\'ri rasmiylashtirdi. Haqiqiy professional!',
+    quoteRu: 'Давронбек очень помог при открытии бизнеса. Оформил все документы быстро и правильно. Настоящий профессионал!',
+    quoteEn: 'Davronbek was extremely helpful when setting up my business. All documents were handled quickly and correctly. A true professional!',
+  },
+  {
+    id: '2',
+    nameUz: 'Dilnoza Yusupova',
+    nameRu: 'Дилноза Юсупова',
+    nameEn: 'Dilnoza Yusupova',
+    roleUz: 'Oila huquqi bo\'yicha mijoz',
+    roleRu: 'Клиент по семейному праву',
+    roleEn: 'Family law client',
+    quoteUz: 'Ajralish jarayonida menga juda yaxshi maslahat berdi va sudda muvaffaqiyatli himoya qildi. Minnatdorman.',
+    quoteRu: 'Во время развода дал отличную консультацию и успешно защитил меня в суде. Очень благодарна.',
+    quoteEn: 'During my divorce he gave excellent advice and successfully represented me in court. Very grateful.',
+  },
+  {
+    id: '3',
+    nameUz: 'Rustam Abdullayev',
+    nameRu: 'Рустам Абдуллаев',
+    nameEn: 'Rustam Abdullayev',
+    roleUz: 'Ko\'chmas mulk bo\'yicha mijoz',
+    roleRu: 'Клиент по недвижимости',
+    roleEn: 'Real estate client',
+    quoteUz: 'Kvartira sotib olishda barcha xavf-xatarlardan himoya qildi. Juda diqqatli va mas\'uliyatli yondashuv. Tavsiya qilaman.',
+    quoteRu: 'Защитил от всех рисков при покупке квартиры. Очень внимательный и ответственный подход. Рекомендую.',
+    quoteEn: 'Protected me from all risks when buying an apartment. Very attentive and responsible approach. I recommend.',
+  },
+];

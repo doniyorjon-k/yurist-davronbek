@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "title": "Davronbek Qo'chqorov — Legal Consultation | Tashkent",
+    "description": "Professional legal services: family law, labor law, corporate law, real estate. 10+ years of experience."
+  },
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "cases": "Results",
+    "blog": "Blog",
+    "contact": "Contact",
+    "consultation": "Free Consultation"
+  },
+  "hero": {
+    "badge": "The Law Is On Your Side",
+    "headline": "We Solve",
+    "headlineAccent": "Your Legal Challenges",
+    "subheadline": "10+ years of experience, 500+ successful cases, 98% client satisfaction",
+    "ctaTelegram": "Message on Telegram",
+    "ctaPhone": "Call Now",
+    "stat1Value": "500+",
+    "stat1Label": "Successful Cases",
+    "stat2Value": "10+",
+    "stat2Label": "Years of Experience",
+    "stat3Value": "98%",
+    "stat3Label": "Client Satisfaction",
+    "stat4Value": "50+",
+    "stat4Label": "Corporate Partners"
+  },
+  "services": {
+    "heading": "Services",
+    "subheading": "Professional assistance with any legal matter",
+    "items": {
+      "family": {
+        "title": "Family Law",
+        "description": "Divorce, alimony, adoption, marital property division"
+      },
+      "labor": {
+        "title": "Labor Law",
+        "description": "Wrongful termination, labor disputes, wage and employment issues"
+      },
+      "corporate": {
+        "title": "Corporate & Business Law",
+        "description": "Company formation, charter drafting, corporate governance consulting"
+      },
+      "realestate": {
+        "title": "Real Estate",
+        "description": "Purchase/sale, leasing, property title registration"
+      },
+      "tax": {
+        "title": "Tax Law",
+        "description": "Tax planning, disputes, and communication with tax authorities"
+      },
+      "contracts": {
+        "title": "Contracts",
+        "description": "Contract drafting, legal review, and dispute resolution"
+      },
+      "court": {
+        "title": "Court Representation",
+        "description": "Professional representation in civil and commercial courts"
+      }
+    }
+  },
+  "whyUs": {
+    "heading": "Why Choose Us?",
+    "subheading": "We provide the best for you",
+    "items": {
+      "experience": {
+        "title": "Extensive Experience",
+        "description": "10+ years of practice, 500+ successful cases"
+      },
+      "individual": {
+        "title": "Individual Approach",
+        "description": "Custom strategy developed for each client"
+      },
+      "transparency": {
+        "title": "Transparency",
+        "description": "Full information about progress and costs"
+      },
+      "speed": {
+        "title": "Efficiency",
+        "description": "Strict adherence to deadlines"
+      },
+      "result": {
+        "title": "Results-Oriented",
+        "description": "Committed to achieving maximum results in every case"
+      }
+    }
+  },
+  "categories": {
+    "business": "Business",
+    "property": "Real Estate",
+    "family": "Family",
+    "general": "General",
+    "labor": "Labor",
+    "corporate": "Corporate",
+    "tax": "Tax",
+    "contracts": "Contracts",
+    "court": "Court"
+  },
+  "cases": {
+    "heading": "Successful Results",
+    "subheading": "Results achieved for our clients",
+    "viewAll": "View All",
+    "outcomes": {
+      "debt": "debt resolved",
+      "property": "property restored",
+      "custody": "child custody"
+    }
+  },
+  "testimonials": {
+    "heading": "Client Testimonials",
+    "subheading": "Real people, real results"
+  },
+  "about": {
+    "heading": "About the Lawyer",
+    "name": "Davronbek Qo'chqorov",
+    "title": "Master of Laws, Senior Attorney",
+    "bio1": "I have been practising law since 2014. I graduated from Tashkent State University of Law and completed several international professional development programmes.",
+    "bio2": "My core areas are family law, labour law, corporate and business law, real estate, tax law, contracts, and court representation. I have successfully handled over 400 cases across these fields.",
+    "credentials": {
+      "edu": "Tashkent State University of Law — Master of Laws, 2014",
+      "member": "Member of Uzbekistan Bar Association",
+      "cert": "International Mediation Certificate, 2019"
+    },
+    "ctaConsult": "Get Consultation"
+  },
+  "process": {
+    "heading": "How We Work",
+    "subheading": "A simple and transparent process",
+    "steps": {
+      "step1": {
+        "title": "Contact Us",
+        "description": "Reach out via Telegram or phone"
+      },
+      "step2": {
+        "title": "Free Consultation",
+        "description": "30 minutes of free consultation"
+      },
+      "step3": {
+        "title": "Agreement",
+        "description": "Sign an agreement with clear terms and pricing"
+      },
+      "step4": {
+        "title": "Results",
+        "description": "We successfully resolve your case"
+      }
+    }
+  },
+  "blog": {
+    "heading": "Helpful Articles",
+    "subheading": "Free knowledge on legal matters",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "backToBlog": "Back to Blog",
+    "pageTitle": "Blog",
+    "pageSubheading": "Legal advice and news",
+    "minRead": "min read"
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "subheading": "Answers to common questions",
+    "items": {
+      "q1": {
+        "question": "Is the first consultation free?",
+        "answer": "Yes, the first 30-minute consultation is completely free."
+      },
+      "q2": {
+        "question": "How is the cost determined?",
+        "answer": "Cost depends on case complexity. Contact us for detailed information."
+      },
+      "q3": {
+        "question": "How long until I get a response?",
+        "answer": "We respond via Telegram or phone within 1 hour."
+      },
+      "q4": {
+        "question": "Do you work nationwide?",
+        "answer": "Yes, we provide online services throughout Uzbekistan."
+      },
+      "q5": {
+        "question": "What documents do I need to prepare?",
+        "answer": "No documents are required for the initial consultation."
+      }
+    }
+  },
+  "cta": {
+    "heading": "Get Your Free Consultation",
+    "subheading": "Start solving your problem today",
+    "form": {
+      "name": "Your Name",
+      "phone": "Phone Number",
+      "message": "Problem Description",
+      "submit": "Send",
+      "success": "Your message has been received! We'll contact you soon.",
+      "error": "An error occurred. Please try again."
+    },
+    "orContact": "Or contact us directly",
+    "telegram": "Telegram",
+    "phone": "Phone"
+  },
+  "footer": {
+    "tagline": "Professional legal services",
+    "links": "Links",
+    "contact": "Contact",
+    "hours": "Working Hours",
+    "hoursDetail": "Mon–Fri: 09:00–18:00\nSat: 10:00–15:00",
+    "address": "Tashkent, Chilanzar District",
+    "copyright": "© 2025 Davronbek Qo'chqorov. All rights reserved.",
+    "privacy": "Privacy Policy"
+  }
+}

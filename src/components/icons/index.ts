@@ -1,0 +1,12 @@
+export { default as IconScale } from './IconScale';
+export { default as IconDocument } from './IconDocument';
+export { default as IconShield } from './IconShield';
+export { default as IconBuilding } from './IconBuilding';
+export { default as IconFamily } from './IconFamily';
+export { default as IconGlobe } from './IconGlobe';
+export { default as IconBriefcase } from './IconBriefcase';
+export { default as IconHome } from './IconHome';
+export { default as IconCheck } from './IconCheck';
+export { default as IconPhone } from './IconPhone';
+export { default as IconTelegram } from './IconTelegram';
+export { default as IconChevron } from './IconChevron';
